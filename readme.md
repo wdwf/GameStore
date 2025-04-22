@@ -2,6 +2,8 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
+![Frame 28](https://github.com/user-attachments/assets/ca83c16a-c784-4ce4-a78b-2b234b66de90)
+
 ## 💻 Descrição do Projeto
 
 Este projeto foi feito para compor nota do projeto de atividade pratica, focando em construir um CRUD de um relacionamento entre as tabelas produto e categoria. O projeto se inspirou em uma loja de venda de jogos. Durante o desenvolvimento, serão aplicados conceitos de Programação Orientada a Objetos (POO), herança, abstração, interface e tratamento de exceções.
