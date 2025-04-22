@@ -40,7 +40,7 @@ public class Produto {
     @Positive(message = "O preço deve ser maior que zero")
     private BigDecimal preco;
 
-    private Integer estoque;
+    private Integer estoque = 0;
 
     private String desenvolvedora;
 
