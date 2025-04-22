@@ -47,7 +47,7 @@ public class Produto {
     private LocalDate dataLancamento;
 
     @ManyToOne
-    @JsonIgnoreProperties("postagem")
+    @JsonIgnoreProperties("produtos") // muda
     private Categoria categoria;
 
     public Long getId() {
